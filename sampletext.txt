@@ -1,0 +1,10 @@
+https://tradingeconomics.com/united-states/government-bond-yield
+https://www.forex.com/en/market-analysis/latest-research/what-are-economic-indicators/
+https://www.forex.com/en/market-analysis/latest-research/what-is-non-farm-payrolls-and-how-do-you-trade-it/
+https://finance.zacks.com/factors-affect-stock-market-2405.html
+
+Need to incorporate these macroeconomic indicator into screenstocktools app
+
+React CRUD Interface: 
+https://jasonwatmore.com/post/2020/10/09/react-crud-example-with-react-hook-form
+https://www.youtube.com/watch?v=dn-u6pUal0U
